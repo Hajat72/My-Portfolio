@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Your Doctor UI Design",
+    "desc": "The dental clinic website is designed to enhance patient engagement, offering detailed service information, appointment scheduling, and educational content, all within an intuitive, professional platform tailored to meet the clinic's needs.",
+    "image": "yourdoctor",
+    "category": "appdesign"
+  },
+  {
+    "name": "E-commerce App for shoes",
+    "desc": "The e-commerce app for shoes has a sleek, intuitive UI design, with clear product displays and streamlined navigation, ensuring a visually appealing and easy browsing experience.",
+    "image": "ecommerce",
+    "category": "appdesign"
+  },
+  {
+    "name": "Grocery App Design",
+    "desc": "I designed the UI for a grocery app, focusing on a clean, intuitive interface. It allows users to easily browse, search, and interact with products, providing a visually appealing and user-friendly experience for efficient shopping.",
+    "image": "grocery",
+    "category": "appdesign"
+  },
+  {
+    "name": "Front-end Shopping App",
+    "desc": "The e-commerce website developed for women, men, and children features a sleek, intuitive UI, with organized categories and clear product displays. Its streamlined navigation ensures a visually appealing and effortless shopping experience for all users.",
+    "image": "shopping",
+    "category": "basicweb"
+  },
+  {
+    "name": "Bagrote Valley Website",
+    "desc": "The Bagrote Valley website I developed features an engaging UI that showcases the region's beauty and culture, offering intuitive navigation and easy access to information on attractions, accommodations, and activities.",
+    "image": "Bagrote",
+    "category": "basicweb"
+  }
+]
