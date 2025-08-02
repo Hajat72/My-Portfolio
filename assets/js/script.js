@@ -40,7 +40,7 @@ $(document).ready(function () {
     // <!-- emailjs to mail contact form data -->
 
     (function() {
-        emailjs.init("service_42528"); // Replace with your User ID
+        emailjs.init("service_u9y4cit"); // Replace with your User ID
     })();
 
     document.getElementById('contact-form').addEventListener('submit', function(event) {
