@@ -40,13 +40,13 @@ $(document).ready(function () {
     // <!-- emailjs to mail contact form data -->
 
     (function() {
-        emailjs.init("template_w6rmbkh"); // Replace with your User ID
+        emailjs.init("-MMpsYnWw85mKiJ1C"); // Replace with your User ID
     })();
 
     document.getElementById('contact-form').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent default form submission
 
-    emailjs.sendForm('service_5ck7wtv', 'template_htnogfj', this)
+    emailjs.sendForm('service_5ck7wtv', 'template_26si51y', this)
         .then(function() {
             alert('Email sent successfully!');
         }, function(error) {
