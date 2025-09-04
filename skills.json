@@ -12,42 +12,12 @@
         "name": "CSS",
         "icon": "https://img.icons8.com/color/48/css3.png"
     },
-    {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/css3.png"
-    },
-    {
-        "name": "Advanced CSS",
-        "icon": "https://img.icons8.com/color/48/css3.png"
-    },
+    
     {
         "name": "Bootstrap",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
-    {
-        "name": "Bootstrap 3",
-        "desc": "Bootstrap 3 introduced a mobile-first grid system and responsive design, laying the foundation for modern UI development. It supported older browsers and simplified layout creation with pre-built classes.",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png",
-        "category": "frontend"
-    },
-    {
-        "name": "Bootstrap 4",
-        "desc": "Bootstrap 4 brought major improvements including Flexbox support, custom utilities, responsive spacing, and a modular Sass-based architecture. It enhanced performance and design flexibility.",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png",
-        "category": "frontend"
-    },
-    {
-        "name": "Bootstrap 5",
-        "desc": "Bootstrap 5 removed jQuery dependency, added new utility APIs, introduced RTL support, and improved grid and form controls. It is more customizable and lightweight for modern web development.",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png",
-        "category": "frontend"
-    },
-    {
-        "name": "Bootstrap (Latest)",
-        "desc": "Bootstrap is the world’s most popular front-end toolkit for building responsive, mobile-first websites using HTML, CSS, and JS components. The latest version focuses on customization and utility-first enhancements.",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png",
-        "category": "frontend"
-    },
+   
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
