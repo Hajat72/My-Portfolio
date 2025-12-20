@@ -369,9 +369,9 @@ header .navbar ul li a:hover {
   height: auto;
   border-radius: 5%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
-  mix-blend-mode: luminosity;
-  transition: 0.3s;
-  cursor: pointer;
+  /* mix-blend-mode: luminosity; */
+  /* transition: 0.3s; */
+  /* cursor: pointer; */
 }
 .about .row .image img:hover {
   mix-blend-mode: normal;
@@ -381,12 +381,12 @@ header .navbar ul li a:hover {
   padding: 3rem;
 }
 .about .row .content h3 {
-  color: rgb(27, 27, 27);
+  color: #0e2431;
   font-size: 2.5rem;
 }
 .about .row .content .tag {
   font-size: 1.4rem;
-  color: #020133;
+  color: #0e2431;
   font-weight: 600;
   margin-top: 1rem;
 }
