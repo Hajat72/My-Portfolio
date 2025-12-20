@@ -239,7 +239,7 @@ header .navbar ul li a:hover {
 }
 .home .content p span {
   font-size: 2.5rem;
-  color: rgb(148, 8, 8);
+  color: #0e2431;
   font-weight: 600;
   padding: 1rem 0;
 }
@@ -1167,7 +1167,7 @@ form .button-area {
   border-top: 0.1rem solid #fff3;
 }
 .footer .credit a {
-  color: #ffae00;
+  color: #fff;
 }
 .footer .fa {
   color: #e90606;
