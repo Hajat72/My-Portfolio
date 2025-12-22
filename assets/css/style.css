@@ -34,10 +34,10 @@ html::-webkit-scrollbar {
   width: 0.8rem;
 }
 html::-webkit-scrollbar-track {
-  background: rgb(235, 202, 245);
+  background: #fff;
 }
 html::-webkit-scrollbar-thumb {
-  background: #420177;
+  background: #2737c7;
 }
 
 /* pre loader start */
@@ -998,7 +998,7 @@ form .message textarea {
   font-size: 16px;
   font-family: "Poppins", sans-serif;
   border-radius: 5px;
-  border: 1px solid rgb(51, 51, 51);
+  border: 1px solid #0e2431;
   background: #e5ecfb;
 }
 .field input::placeholder,
@@ -1008,11 +1008,11 @@ form .message textarea {
 .field input:focus,
 .message textarea:focus {
   padding-left: 47px;
-  border: 2px solid rgb(115, 3, 167);
+  border: 2px solid #011aff;
 }
 .field input:focus ~ i,
 .message textarea:focus ~ i {
-  color: rgb(115, 3, 167);
+  color: #011aff;
 }
 form .message {
   position: relative;
@@ -1047,13 +1047,13 @@ form .button-area {
   cursor: pointer;
   border-radius: 5px;
   padding: 13px 25px;
-  background: #2506ad;
+  background: #011aff;
   box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
   transition: 0.3s ease;
   font-family: "Nunito", sans-serif;
 }
 .button-area button:hover {
-  background: #421cecf5;
+  background: #2737c7;
 }
 .button-area span {
   font-size: 17px;
@@ -1097,7 +1097,7 @@ form .button-area {
 .footer {
   min-height: auto;
   padding-top: 0;
-  background: rgb(0, 1, 43);
+  background: #0e2431;
 }
 .footer .box-container {
   display: flex;
@@ -1122,7 +1122,7 @@ form .button-area {
 }
 .footer .box-container .box p i {
   padding-right: 1rem;
-  color: #ffae00;
+  color: #fff;
 }
 .footer .box-container .box a {
   font-size: 1.5rem;
@@ -1131,7 +1131,7 @@ form .button-area {
   display: block;
 }
 .footer .box-container .box a:hover {
-  color: #ffae00;
+  color: #011aff;
 }
 .footer .box-container .box .share {
   display: flex;
@@ -1155,7 +1155,7 @@ form .button-area {
   background: transparent;
   transform: scale(0.98);
   border: 0.1rem solid rgb(180, 178, 178);
-  color: #ffae00;
+  color: #011aff;
 }
 .footer .credit {
   padding: 1rem 0 0 0;
@@ -1219,7 +1219,7 @@ form .button-area {
   right: 2rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
-  background: #ffae00;
+  background: #2737c7;
   color: rgb(13, 0, 44);
   border-radius: 50%;
   transition: 1s linear;
